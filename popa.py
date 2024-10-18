@@ -1,2 +1,2 @@
 print ('hello world')
-ihuiohuih8o
+ihuiohuih8o //написал лох
